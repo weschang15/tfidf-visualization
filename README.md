@@ -19,3 +19,19 @@ Implementing this algorithm is the challenging part of this project. It'll force
 ## Tasks
 
 1. Create a python script that will loop through a corpus of content and count the number of times each word occurs within each document.
+
+## Psuedo-code examples
+
+**Task 1 psuedo-code**
+
+```python
+# Given a set of data with 2 columns, title and summary, we want to:
+# Step 1: Loop through ALL rows of data
+# Step 2: Within the loop, for the current row, we want to
+# Step 3: Split the summary into individual words, rather than just a long string of text
+# Step 4: Count the number of times each individual word occurs
+
+# Things to think about...
+# For step 3, why do we want to split the summary into words
+# For step 4, how should we keep track of all words and their associated frequency
+```
