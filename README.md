@@ -20,9 +20,9 @@ Implementing this algorithm is the challenging part of this project. It'll force
 
 1. Create a python script that will loop through a corpus of content and count the number of times each word occurs within each document.
 
-## Psuedo-code examples
+## Pseudo-code examples
 
-**Task 1 psuedo-code**
+**Task 1 pseudo-code**
 
 ```python
 # Given a set of data with 2 columns, title and summary, we want to:
