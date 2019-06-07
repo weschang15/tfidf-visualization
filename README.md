@@ -40,7 +40,7 @@ Implementing this algorithm is the challenging part of this project. It'll force
 
 **Task 1 solution**
 
-Written in JavaScript because I don't know enough of the Python syntax, however you can take what I've written and attempt to write the python version. To run the example, run the following command in your terminal:
+Written in JavaScript because I don't know enough of the Python syntax, however you can take what I've written and attempt to write the python version. To run the example, run the following command in your terminal while at the **root of the project**:
 
 ```bash
 node src/task-1
