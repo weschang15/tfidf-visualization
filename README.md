@@ -35,3 +35,13 @@ Implementing this algorithm is the challenging part of this project. It'll force
 # For step 3, why do we want to split the summary into words
 # For step 4, how should we keep track of all words and their associated frequency
 ```
+
+## Solutions
+
+**Task 1 solution**
+
+Written in JavaScript because I don't know enough of the Python syntax, however you can take what I've written and attempt to write the python version. To run the example, run the following command in your terminal:
+
+```bash
+node src/task-1
+```
